@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Folks!
+
+Cat here, trying to learn as much as I can.  
